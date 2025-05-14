@@ -1,5 +1,7 @@
 Rencana Kontent Aji
 
 - javascript
+* css
+* html
 - Affiliate
 - Marketing Produk
