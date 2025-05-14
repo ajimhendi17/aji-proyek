@@ -4,6 +4,7 @@ Rencana Kontent Aji
 * css
 * html
 ^ vue
+^ react
 * Fundamental Struktur data 
 - Affiliate
 ^ tiktok
