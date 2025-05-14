@@ -3,8 +3,10 @@ Rencana Kontent Aji
 - javascript
 * css
 * html
-^ angular
-^ React
+^ vue
+^ react
+* Fundamental Struktur data 
 - Affiliate
-^ laravel
+^ tiktok
 - Marketing Produk
+^ canva
