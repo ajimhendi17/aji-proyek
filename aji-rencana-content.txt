@@ -3,5 +3,6 @@ Rencana Kontent Aji
 - javascript
 * css
 * html
+* Fundamental Struktur data 
 - Affiliate
 - Marketing Produk
